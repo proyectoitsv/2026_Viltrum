@@ -2,16 +2,24 @@
 
 # Reunión 8/6/26
 
-##Falta de división de tareas:
+## Falta de división de tareas:
 
-El profesor compara la dinámica del grupo con niños jugando al fútbol, donde "todos van atrás de la pelota", criticando que los cuatro integrantes intenten hacer las mismas actividades al mismo tiempo, como comprar componentes o armar el diagrama de Gantt.
+El profesor compara la dinámica del grupo con niños jugando al fútbol, donde "todos van atrás de la pelota",
+criticando que los cuatro integrantes intenten hacer las mismas actividades al mismo tiempo, como comprar
+componentes o armar el diagrama de Gantt.
 
-##Asignación de responsabilidades:
-Recalca que es fundamental desglosar las tareas (como definir el sensor, la fuente de alimentación o la carcasa) y asignar un responsable directo a cada una.
+## Asignación de responsabilidades:
+Recalca que es fundamental desglosar las tareas (como definir el sensor, la fuente de alimentación o la carcasa)
+ y asignar un responsable directo a cada una.
 
-##Separación física del grupo: Al notar que los cuatro estudiantes están sentados juntos trabajando en lo mismo, el profesor obliga a dos de ellos a tomar una computadora y trasladarse a otra mesa para forzarlos a trabajar de manera independiente.
+## Separación física del grupo:
+Al notar que los cuatro estudiantes están sentados juntos trabajando en lo mismo, el profesor obliga a dos de
+ ellos a tomar una computadora y trasladarse a otra mesa para forzarlos a trabajar de manera independiente.
 
-##Uso del tiempo en clase: Finalmente, les llama la atención por estar realizando trabajos prácticos de otra materia durante su horario, indicándoles que deben resolver esos pendientes en su tiempo libre durante el fin de semana.
+## Uso del tiempo en clase:
+
+Finalmente, les llama la atención por estar realizando trabajos prácticos de otra materia durante su horario,
+indicándoles que deben resolver esos pendientes en su tiempo libre durante el fin de semana.
 
 ---------------------------------------------------------------------------------------------------------------
 
